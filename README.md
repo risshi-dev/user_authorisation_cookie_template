@@ -1,4 +1,4 @@
-# user_authorisation_cookie_template
+# User Authorisation Cookie Template
 
 ## Steps to run the boiler plate code
   1. npm install to install the dependencies.
